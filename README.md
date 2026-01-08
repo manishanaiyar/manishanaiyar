@@ -1,87 +1,45 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manisha%20Naiyar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20Builder&descAlignY=55&descAlign=50)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Production+Grade+RAG+Systems;Fine-tuning+LLMs+for+Business+Use;Deploying+Scalable+ML+Pipelines;Turning+Data+into+Decisions" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<samp>
-  <h3>👋 Hello! I'm a Data Scientist & AI Engineer based in India.</h3>
-  I specialize in building end-to-end <b>Generative AI applications</b> and <b>Data Pipelines</b>. <br>
-  My passion lies in bridging the gap between raw data and actionable AI solutions.
-</samp>
-
-<br/><br/>
-
-<h2>🛠️ The Arsenal</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /><br><b>Python</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" /><br><b>PyTorch</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" /><br><b>TensorFlow</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /><br><b>FastAPI</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /><br><b>Docker</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /><br><b>Git</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL" /><br><b>SQL</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit" /><br><b>Scikit</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" alt="Pandas" /><br><b>Pandas</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash" /><br><b>Bash</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /><br><b>Postman</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VSCode" /><br><b>VS Code</b>
-    </td>
-  </tr>
-</table>
-
-<img src="https://img.shields.io/badge/LangChain-Integration-blue?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Google-Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector%20DB-FAISS%20%2F%20Chroma-success?style=for-the-badge" />
-
-<br/><br/>
-
-<h2>📊 GitHub Analytics</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=manishanaiyar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishanaiyar&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-
-<br/><br/>
-
-<h2>🤝 Let's Connect</h2>
-
-<a href="https://linkedin.com/in/manisha-naiyar">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:mannahmanisha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send_me_an_Email-red?style=for-the-badge&logo=gmail" alt="Email" />
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=180&section=header&text=Manisha%20Naiyar&fontSize=70&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descFontSize=20&descFontColor=aaaaaa&fontAlignY=40&descAlignY=70" width="100%" />
 </div>
+
+<br />
+
+### ⚡ Quick Summary
+I am a Data Scientist & AI Engineer focused on **productionizing Machine Learning**. I don't just build models; I build deployed, scalable AI systems using **FastAPI** and **Docker**.
+
+* 🔭 **Current Focus:** Advanced RAG Pipelines & Agentic Workflows.
+* 💼 **Open For:** Full-time roles in AI/ML & Data Science (India/Remote).
+
+
+---
+
+### 💻 Technical Proficiency
+
+| **Domain** | **Stack** |
+| :--- | :--- |
+| **🤖 Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat-square) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **🧠 Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **🛠️ Backend & Ops** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **📊 Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+
+<br />
+
+### 📈 Activity
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishanaiyar&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishanaiyar&layout=compact&theme=graywhite&hide_border=true" height="160" />
+</div>
+
+<br />
+
+### 🤝 Let's Collaborate
+<p align="left">
+  <a href="https://linkedin.com/in/manisha-naiyar">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mannahmanisha@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
