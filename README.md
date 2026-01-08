@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+  
+# Hi, I'm **Manisha Naiyar** 👩‍💻
 
-<!--
-**manishanaiyar/manishanaiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | ML Engineer** building production ML systems  
+**7.82 CGPA | Open to DE/DS/ML/AI roles | Available immediately**
 
-Here are some ideas to get you started:
+[![GitHub Follow](https://img.shields.io/github/followers/manishanaiyar?style=social)](https://github.com/manishanaiyar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-naiyar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🚀 **Featured Projects** 
+
+| Project | Tech Stack | Results |
+|---------|------------|---------|
+| **AI Interview Coach** | FastAPI, **RAG**, Gemini, FAISS, Streamlit | Production app |
+| **Fake News Detector** | **PyTorch**, BERT+LSTM | **96.7% accuracy** 🎯 |
+| **Retail Forecasting** | Prophet, Pandas, Web Scraping | **MAPE 36%** 📈 |
+| **Resume Matcher** | Scikit-learn, NLP, TF-IDF | **72% accuracy** |
+
+## 🛠 **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+## 📊 **Stats**
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manishanaiyar&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=manishanaiyar&theme=radical" width="48%"/>
+</div>
+
+---
+**📧 mannahmanishagmail.com** | **📱 +91 9303404244**
