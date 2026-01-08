@@ -1,34 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=180&section=header&text=Manisha%20Naiyar&fontSize=70&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descFontSize=20&descFontColor=aaaaaa&fontAlignY=40&descAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Manisha%20Naiyar&fontSize=80&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20RAG%20Specialist&descFontSize=22&descFontColor=eeeeee&fontAlignY=35&descAlignY=60" width="100%" />
 </div>
 
 <br />
 
 ### ⚡ Quick Summary
 **I don't just analyze data; I build systems that learn from it.**
-I am an AI Engineer & Data Scientist capable of handling complex challenges. Whether it's performing deep **Statistical Analysis**, training custom **ML Models**, or deploying full-stack **GenAI Applications** with FastAPI, I build solutions that turn raw data into intelligent software.
+I am an AI Engineer & Data Scientist capable of handling complex challenges. Whether it's performing deep **Statistical Analysis**, training custom **ML Models**, or deploying full-stack **GenAI Applications**, I build solutions that turn raw data into intelligent software.
 
 * 🔭 **Current Focus:** Advanced RAG Pipelines & Agentic Workflows.
 * 💼 **Open For:** Full-time roles in AI/ML & Data Science (India/Remote).
 
+<br />
 
----
+
 
 ### 💻 Technical Proficiency
 
-| **Domain** | **Stack** |
-| :--- | :--- |
-| **🤖 Generative AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B35?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FAISS](https://img.shields.io/badge/FAISS-FFD700?style=flat-square&logoColor=black) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-007ACC?style=flat-square) |
-| **🧠 Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square) |
-| **🤖 Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EA8600?style=flat-square) ![Prophet](https://img.shields.io/badge/Prophet-1E88E5?style=flat-square) ![Statsmodels](https://img.shields.io/badge/Statsmodels-4C72B0?style=flat-square) |
-| **📊 Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square) |
-| **📈 Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
-| **🛠️ Backend & Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **🗄️ Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+<div align="center">
+
+**🤖 Generative AI & LLMs**
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/langchain.svg" width="50" height="50" alt="LangChain"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/llamaindex.svg" width="50" height="50" alt="LlamaIndex"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/google.svg" width="50" height="50" alt="Gemini"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" width="50" height="50" alt="HuggingFace"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/faiss.svg" width="50" height="50" alt="FAISS"/>
 
 <br/>
 
+**🧠 Deep Learning**
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" width="50" height="50" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" width="50" height="50" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" width="50" height="50" alt="Keras"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nltk.svg" width="50" height="50" alt="NLTK"/>
+
+<br/>
+
+**🤖 Machine Learning**
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="50" height="50" alt="Scikit-Learn"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xgboost.svg" width="50" height="50" alt="XGBoost"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prophet.svg" width="50" height="50" alt="Prophet"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/statsmodels.svg" width="50" height="50" alt="Statsmodels"/>
+
+<br/>
+
+**📊 Data Processing**
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="50" height="50" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="50" height="50" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/polars.svg" width="50" height="50" alt="Polars"/>
+
+<br/>
+
+**📈 Data Visualization**
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matplotlib.svg" width="50" height="50" alt="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/seaborn.svg" width="50" height="50" alt="Seaborn"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plotly.svg" width="50" height="50" alt="Plotly"/>
+
+<br/>
+
+**🛠️ Backend & Deployment**
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" width="50" height="50" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" width="50" height="50" alt="Streamlit"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" width="50" height="50" alt="Flask"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" width="50" height="50" alt="Docker"/>
+
+<br/>
+
+**🗄️ Databases**
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" width="50" height="50" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" width="50" height="50" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="50" height="50" alt="MySQL"/>
+
+<br/>
+
+**💻 Languages**
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="50" height="50" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sql.svg" width="50" height="50" alt="SQL"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" width="50" height="50" alt="Bash"/>
+
+</div>
+
+<br/>
 
 
 
@@ -37,15 +97,9 @@ I am an AI Engineer & Data Scientist capable of handling complex challenges. Whe
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-naiyar-74666335b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannahmanisha@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/manishamannah)
-
-
-
-
-
-
+<a href="https://www.linkedin.com/in/manisha-naiyar-74666335b"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50" alt="LinkedIn"/></a>
+<a href="mailto:mannahmanisha@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" alt="Email"/></a>
+<a href="https://www.kaggle.com/manishamannah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="50" height="50" alt="Kaggle"/></a>
 
 </div>
 
@@ -55,6 +109,5 @@ I am an AI Engineer & Data Scientist capable of handling complex challenges. Whe
 
 ### 💡 _"Data → Insights → Models → Impact"_
 
-
-
 </div>
+
