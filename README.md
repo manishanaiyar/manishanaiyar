@@ -1,35 +1,25 @@
-<div align="center">
-  
-# Hi, I'm **Manisha Naiyar** 👩‍💻
+# Hi there, I'm Manisha Naiyar! 👋
 
-**Data Scientist | ML Engineer** building production ML systems  
-**7.82 CGPA | Open to DE/DS/ML/AI roles | Available immediately**
-
-[![GitHub Follow](https://img.shields.io/github/followers/manishanaiyar?style=social)](https://github.com/manishanaiyar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-naiyar)
-
-</div>
-
-## 🚀 **Featured Projects** 
-
-| Project | Tech Stack | Results |
-|---------|------------|---------|
-| **AI Interview Coach** | FastAPI, **RAG**, Gemini, FAISS, Streamlit | Production app |
-| **Fake News Detector** | **PyTorch**, BERT+LSTM | **96.7% accuracy** 🎯 |
-| **Retail Forecasting** | Prophet, Pandas, Web Scraping | **MAPE 36%** 📈 |
-| **Resume Matcher** | Scikit-learn, NLP, TF-IDF | **72% accuracy** |
-
-## 🛠 **Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-## 📊 **Stats**
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manishanaiyar&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=manishanaiyar&theme=radical" width="48%"/>
-</div>
+### 🚀 AI Engineer & Data Scientist
+*Specializing in Generative AI, RAG Pipelines, and End-to-End Machine Learning.*
 
 ---
-**📧 mannahmanishagmail.com** | **📱 +91 9303404244**
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/GenAI-Gemini-4285F4?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+![Manisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishanaiyar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishanaiyar&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manisha-naiyar)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mannahmanisha@gmail.com)
