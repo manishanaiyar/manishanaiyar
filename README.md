@@ -31,26 +31,28 @@ I am an AI Engineer & Data Scientist capable of handling complex challenges. Whe
 <br/>
 
 
-### 📈 GitHub Activity & Stats
+### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishanaiyar&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishanaiyar&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishanaiyar&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishanaiyar&layout=compact&theme=radical&hide_border=true" height="150" />
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=manishanaiyar&theme=radical&hide_border=true" width="100%" />
-
 <br />
+
 
 ### 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-naiyar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manisha-naiyar-74666335b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannahmanisha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manishanaiyar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/manishamannah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://github.com/manishanaiyar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([(https://www.kaggle.com/manishamannah))
+
+
+
+
+
 
 
 </div>
